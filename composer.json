@@ -1,0 +1,16 @@
+{
+    "name": "laravel-news/call-request",
+    "description": "Test call request  package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitaly Nikolenko",
+            "email": "vit@laravel-news.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LaravelNews\\CallRequest\\": "src"
+        }
+    }
+}
